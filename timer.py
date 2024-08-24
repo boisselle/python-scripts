@@ -1,8 +1,7 @@
-
 #   This is a simple timer that displays a counter in ascending order. 
 #   Specify timer duration in the format HH:MM:SS.
 #   Set colors to flash on the command line with the ANSI escape codes below
-#   Set sound file to the absolute path of an m4a or mp3 file.
+#   Set sound_file to the absolute path of an m4a or mp3 file.
 #   TODO: 
 #   - test support for all sound file formats.
 #   - allow counter to be descending or ascending via a variable
